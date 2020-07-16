@@ -4,7 +4,7 @@
 
 :construction: i’m currently working on [livres-ouverts](livres-ouverts.fr), an open-source project that aims at making french cities budgets more accessible to the public, because open-data is not accessible-data.
 
-:book: i'm a JS instructor.
+:book: i'm a JS and React instructor.
 
 :thought_balloon: i’m looking to collaborate on any public interest project that involves Javascript or cheesecakes.
 
