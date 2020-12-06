@@ -23,3 +23,5 @@
 :pencil2: i need to draw more often
 
 :cake: i do have a thing for cheesecakes
+
+:poop: `git stash poop`
